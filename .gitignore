@@ -115,6 +115,7 @@ dmypy.json
 
 # Private Key
 key.json
+sheetdata.json
 
 # for MacOS
 .DS_Store
